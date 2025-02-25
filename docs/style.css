@@ -1,0 +1,26 @@
+#container
+{
+    width: 960px;
+    height: auto;
+    margin: auto;
+    padding: 10px 50px;
+}
+
+.threeup 
+{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    text-align: center;
+}
+
+.threeup img
+{
+    width: 300px;
+    height: 200px;
+}
+
+img.fullwidth
+{
+    width: 100%;
+}
